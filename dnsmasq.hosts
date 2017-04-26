@@ -1,0 +1,4 @@
+# Spoofed DNS entries
+172.24.1.1 www.facebook.com
+172.24.1.1 facebook.com
+172.24.1.1 m.facebook.com
